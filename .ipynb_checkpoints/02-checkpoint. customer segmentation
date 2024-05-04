@@ -112,17 +112,6 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": 13,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [],
-   "source": [
-    "df_age = pd.read_csv('./dataset/olist_age.csv')"
-   ]
-  },
-  {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
@@ -131,7 +120,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
+   "execution_count": 14,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -155,7 +144,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
+   "execution_count": 16,
    "metadata": {},
    "outputs": [
     {
@@ -183,7 +172,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 18,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [
     {
@@ -197,7 +186,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 18,
+     "execution_count": 17,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -208,7 +197,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 18,
    "metadata": {},
    "outputs": [
     {
@@ -254,7 +243,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 20,
+   "execution_count": 19,
    "metadata": {},
    "outputs": [
     {
@@ -267,7 +256,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 20,
+     "execution_count": 19,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -285,7 +274,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [
     {
@@ -313,7 +302,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 22,
    "metadata": {},
    "outputs": [
     {
@@ -327,7 +316,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 23,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -338,7 +327,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
+   "execution_count": 23,
    "metadata": {},
    "outputs": [
     {
@@ -382,7 +371,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
+   "execution_count": 24,
    "metadata": {},
    "outputs": [
     {
@@ -393,7 +382,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 25,
+     "execution_count": 24,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -411,7 +400,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+   "execution_count": 26,
    "metadata": {},
    "outputs": [
     {
@@ -441,7 +430,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
+   "execution_count": 27,
    "metadata": {},
    "outputs": [
     {
@@ -457,7 +446,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 28,
+     "execution_count": 27,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -468,7 +457,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
+   "execution_count": 28,
    "metadata": {},
    "outputs": [
     {
@@ -523,7 +512,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 30,
+   "execution_count": 29,
    "metadata": {},
    "outputs": [
     {
@@ -536,7 +525,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 30,
+     "execution_count": 29,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -554,7 +543,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
+   "execution_count": 31,
    "metadata": {},
    "outputs": [
     {
@@ -582,7 +571,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 33,
+   "execution_count": 32,
    "metadata": {},
    "outputs": [
     {
@@ -596,7 +585,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 33,
+     "execution_count": 32,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -607,7 +596,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 34,
+   "execution_count": 33,
    "metadata": {},
    "outputs": [
     {
@@ -650,7 +639,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 35,
+   "execution_count": 34,
    "metadata": {},
    "outputs": [
     {
@@ -661,7 +650,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 35,
+     "execution_count": 34,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -679,7 +668,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
+   "execution_count": 36,
    "metadata": {},
    "outputs": [
     {
@@ -709,7 +698,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 38,
+   "execution_count": 37,
    "metadata": {},
    "outputs": [
     {
@@ -725,7 +714,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 38,
+     "execution_count": 37,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -736,7 +725,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 39,
+   "execution_count": 38,
    "metadata": {},
    "outputs": [
     {
@@ -1006,7 +995,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 40,
+   "execution_count": 39,
    "metadata": {},
    "outputs": [
     {
@@ -1021,7 +1010,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 40,
+     "execution_count": 39,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1039,7 +1028,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 42,
+   "execution_count": 41,
    "metadata": {},
    "outputs": [
     {
@@ -1070,7 +1059,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 43,
+   "execution_count": 42,
    "metadata": {},
    "outputs": [
     {
@@ -1087,7 +1076,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 43,
+     "execution_count": 42,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1098,7 +1087,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 44,
+   "execution_count": 43,
    "metadata": {},
    "outputs": [
     {
@@ -1311,7 +1300,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 45,
+   "execution_count": 44,
    "metadata": {},
    "outputs": [
     {
@@ -1328,7 +1317,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 45,
+     "execution_count": 44,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1346,7 +1335,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 47,
+   "execution_count": 46,
    "metadata": {},
    "outputs": [
     {
@@ -1378,7 +1367,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 48,
+   "execution_count": 47,
    "metadata": {},
    "outputs": [
     {
@@ -1396,7 +1385,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 48,
+     "execution_count": 47,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1407,7 +1396,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 49,
+   "execution_count": 48,
    "metadata": {},
    "outputs": [
     {
@@ -1513,7 +1502,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 50,
+   "execution_count": 49,
    "metadata": {},
    "outputs": [
     {
@@ -1524,7 +1513,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 50,
+     "execution_count": 49,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1542,7 +1531,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 52,
+   "execution_count": 51,
    "metadata": {},
    "outputs": [
     {
@@ -1569,7 +1558,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 53,
+   "execution_count": 52,
    "metadata": {},
    "outputs": [
     {
@@ -1582,7 +1571,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 53,
+     "execution_count": 52,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1593,7 +1582,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 54,
+   "execution_count": 53,
    "metadata": {},
    "outputs": [
     {
@@ -1757,7 +1746,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 55,
+   "execution_count": 54,
    "metadata": {},
    "outputs": [
     {
@@ -1769,7 +1758,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 55,
+     "execution_count": 54,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1787,7 +1776,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 57,
+   "execution_count": 56,
    "metadata": {},
    "outputs": [
     {
@@ -1812,7 +1801,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 58,
+   "execution_count": 57,
    "metadata": {},
    "outputs": [
     {
@@ -1823,7 +1812,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 58,
+     "execution_count": 57,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1834,7 +1823,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 59,
+   "execution_count": 58,
    "metadata": {},
    "outputs": [
     {
@@ -1903,7 +1892,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 60,
+   "execution_count": 59,
    "metadata": {},
    "outputs": [
     {
@@ -1914,130 +1903,13 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 60,
+     "execution_count": 59,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
     "empty_or_whitespace_strings(df_cat_name)[0]"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "tags": []
-   },
-   "source": [
-    "olist_age"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 62,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "<class 'pandas.core.frame.DataFrame'>\n",
-      "RangeIndex: 98666 entries, 0 to 98665\n",
-      "Data columns (total 2 columns):\n",
-      " #   Column       Non-Null Count  Dtype \n",
-      "---  ------       --------------  ----- \n",
-      " 0   customer_id  98666 non-null  object\n",
-      " 1   age          98666 non-null  int64 \n",
-      "dtypes: int64(1), object(1)\n",
-      "memory usage: 1.5+ MB\n"
-     ]
-    }
-   ],
-   "source": [
-    "df_age.info()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 63,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "customer_id    0\n",
-       "age            0\n",
-       "dtype: int64"
-      ]
-     },
-     "execution_count": 63,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "df_age.isna().sum()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 64,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Columns name:  customer_id\n",
-      "Unique value:  ['00012a2ce6f8dcda20d059ce98491703' '000161a058600d5901f007fab4c27140'\n",
-      " '0001fd6190edaaf884bcaf3d49edf079' ... 'fffeda5b6d849fbd39689bb92087f431'\n",
-      " 'ffff42319e9b2d713724ae527742af25' 'ffffa3172527f765de70084a7e53aae8']\n",
-      "Count unique value:  98666\n",
-      "----------\n",
-      "Columns name:  age\n",
-      "Unique value:  [61 49 71 68 42 63 40 69 18 39 51 50 21 59 62 22 43 27 28 75 64 67 72 20\n",
-      " 54 66 73 36 65 41 25 46 53 33 47 23 57 38 56 60 70 35 24 30 52 37 31 29\n",
-      " 44 55 58 74 34 19 26 45 32 48]\n",
-      "Count unique value:  58\n",
-      "----------\n"
-     ]
-    }
-   ],
-   "source": [
-    "for i in df_age.columns:\n",
-    "    print('Columns name: ', i)\n",
-    "    print('Unique value: ', df_age[i].unique())\n",
-    "    print('Count unique value: ', df_age[i].nunique())\n",
-    "    print('-'*10)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 65,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "customer_id    0\n",
-       "dtype: int64"
-      ]
-     },
-     "execution_count": 65,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "empty_or_whitespace_strings(df_age)[0]"
    ]
   },
   {
@@ -2056,7 +1928,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 68,
+   "execution_count": 62,
    "metadata": {},
    "outputs": [
     {
@@ -2211,21 +2083,18 @@
        "[99441 rows x 5 columns]"
       ]
      },
-     "execution_count": 68,
+     "execution_count": 62,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_customer\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_customer\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 69,
+   "execution_count": 63,
    "metadata": {},
    "outputs": [
     {
@@ -2266,21 +2135,18 @@
        "0        96096"
       ]
      },
-     "execution_count": 69,
+     "execution_count": 63,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(distinct customer_unique_id) no_customer\n",
-    "from df_customer\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(distinct customer_unique_id) no_customer from df_customer\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 70,
+   "execution_count": 64,
    "metadata": {},
    "outputs": [
     {
@@ -2321,7 +2187,7 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
-       "      <td>6469f99c1f9dfae7733b25662e7f1782</td>\n",
+       "      <td>1b6c7548a2a1f9037c1fd3ddfed95f33</td>\n",
        "      <td>7</td>\n",
        "    </tr>\n",
        "    <tr>\n",
@@ -2331,7 +2197,7 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
-       "      <td>1b6c7548a2a1f9037c1fd3ddfed95f33</td>\n",
+       "      <td>6469f99c1f9dfae7733b25662e7f1782</td>\n",
        "      <td>7</td>\n",
        "    </tr>\n",
        "    <tr>\n",
@@ -2341,27 +2207,27 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>96091</th>\n",
-       "      <td>065b9e6198f11dbdf7fc1250f9e08afc</td>\n",
+       "      <td>1c137fe37df712015f6488edafe8ece4</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>96092</th>\n",
-       "      <td>c64ede6d0ae8901b1b6fb03528c1b7e6</td>\n",
+       "      <td>aaf22868003377e859049dcf5f0b3fdf</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>96093</th>\n",
-       "      <td>5a1680640123fc80e801301a2fb57395</td>\n",
+       "      <td>4b5820135d360a45552b5163835b1d89</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>96094</th>\n",
-       "      <td>e9f50caf99f032f0bf3c55141f019d99</td>\n",
+       "      <td>1a29b476fee25c95fbafc67c5ac95cf8</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>96095</th>\n",
-       "      <td>73c2643a0a458b49f58cea58833b192e</td>\n",
+       "      <td>d52a67c98be1cf6a5c84435bd38d095d</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
@@ -2373,36 +2239,34 @@
        "                     customer_unique_id  no_sub\n",
        "0      8d50f5eadf50201ccdcedfb9e2ac8455      17\n",
        "1      3e43e6105506432c953e165fb2acf44c       9\n",
-       "2      6469f99c1f9dfae7733b25662e7f1782       7\n",
+       "2      1b6c7548a2a1f9037c1fd3ddfed95f33       7\n",
        "3      ca77025e7201e3b30c44b472ff346268       7\n",
-       "4      1b6c7548a2a1f9037c1fd3ddfed95f33       7\n",
+       "4      6469f99c1f9dfae7733b25662e7f1782       7\n",
        "...                                 ...     ...\n",
-       "96091  065b9e6198f11dbdf7fc1250f9e08afc       1\n",
-       "96092  c64ede6d0ae8901b1b6fb03528c1b7e6       1\n",
-       "96093  5a1680640123fc80e801301a2fb57395       1\n",
-       "96094  e9f50caf99f032f0bf3c55141f019d99       1\n",
-       "96095  73c2643a0a458b49f58cea58833b192e       1\n",
+       "96091  1c137fe37df712015f6488edafe8ece4       1\n",
+       "96092  aaf22868003377e859049dcf5f0b3fdf       1\n",
+       "96093  4b5820135d360a45552b5163835b1d89       1\n",
+       "96094  1a29b476fee25c95fbafc67c5ac95cf8       1\n",
+       "96095  d52a67c98be1cf6a5c84435bd38d095d       1\n",
        "\n",
        "[96096 rows x 2 columns]"
       ]
      },
-     "execution_count": 70,
+     "execution_count": 64,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select customer_unique_id, count(customer_id) no_sub\n",
-    "from df_customer\n",
-    "group by customer_unique_id\n",
-    "order by no_sub desc\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select customer_unique_id, count(customer_id) no_sub\\\n",
+    "             from df_customer\\\n",
+    "             group by customer_unique_id\\\n",
+    "             order by no_sub desc\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 71,
+   "execution_count": 65,
    "metadata": {},
    "outputs": [
     {
@@ -2443,21 +2307,18 @@
        "0     4119"
       ]
      },
-     "execution_count": 71,
+     "execution_count": 65,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(distinct customer_city) no_city\n",
-    "from df_customer\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(distinct customer_city) no_city from df_customer\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 72,
+   "execution_count": 66,
    "metadata": {},
    "outputs": [
     {
@@ -2498,16 +2359,13 @@
        "0   14994"
       ]
      },
-     "execution_count": 72,
+     "execution_count": 66,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(distinct customer_zip_code_prefix) no_zip\n",
-    "from df_customer\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(distinct customer_zip_code_prefix) no_zip from df_customer\").to_df()"
    ]
   },
   {
@@ -2519,7 +2377,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 74,
+   "execution_count": 68,
    "metadata": {},
    "outputs": [
     {
@@ -2674,21 +2532,18 @@
        "[1000163 rows x 5 columns]"
       ]
      },
-     "execution_count": 74,
+     "execution_count": 68,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_geo\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_geo\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 75,
+   "execution_count": 69,
    "metadata": {},
    "outputs": [
     {
@@ -2729,21 +2584,18 @@
        "0        27"
       ]
      },
-     "execution_count": 75,
+     "execution_count": 69,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(distinct geolocation_state) no_state\n",
-    "from df_geo\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(distinct geolocation_state) no_state from df_geo\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 76,
+   "execution_count": 70,
    "metadata": {
     "tags": []
    },
@@ -2972,20 +2824,16 @@
        "26                RR       14      28"
       ]
      },
-     "execution_count": 76,
+     "execution_count": 70,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select geolocation_state\n",
-    ", count(distinct geolocation_city) no_city\n",
-    ", count(distinct geolocation_zip_code_prefix) no_zip\n",
-    "from df_geo\n",
-    "group by geolocation_state\n",
-    "order by no_city desc, no_zip desc\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select geolocation_state, count(distinct geolocation_city) no_city, count(distinct geolocation_zip_code_prefix) no_zip\\\n",
+    "             from df_geo\\\n",
+    "             group by geolocation_state\\\n",
+    "             order by no_city desc, no_zip desc\").to_df()"
    ]
   },
   {
@@ -2997,7 +2845,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 78,
+   "execution_count": 72,
    "metadata": {},
    "outputs": [
     {
@@ -3189,21 +3037,18 @@
        "[112650 rows x 7 columns]"
       ]
      },
-     "execution_count": 78,
+     "execution_count": 72,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_order_item\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_order_item\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 79,
+   "execution_count": 73,
    "metadata": {},
    "outputs": [
     {
@@ -3244,21 +3089,18 @@
        "0     98666"
       ]
      },
-     "execution_count": 79,
+     "execution_count": 73,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(distinct order_id) no_order\n",
-    "from df_order_item\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(distinct order_id) no_order from df_order_item\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 80,
+   "execution_count": 74,
    "metadata": {},
    "outputs": [
     {
@@ -3294,12 +3136,12 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
-       "      <td>ad850e69fce9a512ada84086651a2e7d</td>\n",
+       "      <td>7d8f5bfd5aff648220374a2df62e84d5</td>\n",
        "      <td>7</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
-       "      <td>7d8f5bfd5aff648220374a2df62e84d5</td>\n",
+       "      <td>ad850e69fce9a512ada84086651a2e7d</td>\n",
        "      <td>7</td>\n",
        "    </tr>\n",
        "    <tr>\n",
@@ -3309,7 +3151,7 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
-       "      <td>1c11d0f4353b31ac3417fbfa5f0f2a8a</td>\n",
+       "      <td>5a3b1c29a49756e75f1ef513383c0c12</td>\n",
        "      <td>6</td>\n",
        "    </tr>\n",
        "    <tr>\n",
@@ -3319,27 +3161,27 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>98661</th>\n",
-       "      <td>e67a3047fa3e8b2aecd942f3b25b0e3f</td>\n",
+       "      <td>e7d39ee13283ab636ac39f8a97175320</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>98662</th>\n",
-       "      <td>e69c09a33d9b7edf03204eb2f7e828b1</td>\n",
+       "      <td>e7d99cde4408565cb8aa944a642c61bd</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>98663</th>\n",
-       "      <td>e7357fe4a77b19d99e8916f8e8af7b69</td>\n",
+       "      <td>e84a02d0899d1118f39b570825cce93c</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>98664</th>\n",
-       "      <td>e7720e61a7b5077592d07d61c313e559</td>\n",
+       "      <td>e8606bd877aee06d98501a6436ee8576</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>98665</th>\n",
-       "      <td>e7f65461e6bfbb6977c3d24ff623024e</td>\n",
+       "      <td>e87543e4e7ef577c892735018fb134a8</td>\n",
        "      <td>1</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
@@ -3350,37 +3192,35 @@
       "text/plain": [
        "                               order_id  no_product\n",
        "0      ca3625898fbd48669d50701aba51cd5f           8\n",
-       "1      ad850e69fce9a512ada84086651a2e7d           7\n",
-       "2      7d8f5bfd5aff648220374a2df62e84d5           7\n",
+       "1      7d8f5bfd5aff648220374a2df62e84d5           7\n",
+       "2      ad850e69fce9a512ada84086651a2e7d           7\n",
        "3      77df84f9195be22a4e9cb72ca9e8b4c2           7\n",
-       "4      1c11d0f4353b31ac3417fbfa5f0f2a8a           6\n",
+       "4      5a3b1c29a49756e75f1ef513383c0c12           6\n",
        "...                                 ...         ...\n",
-       "98661  e67a3047fa3e8b2aecd942f3b25b0e3f           1\n",
-       "98662  e69c09a33d9b7edf03204eb2f7e828b1           1\n",
-       "98663  e7357fe4a77b19d99e8916f8e8af7b69           1\n",
-       "98664  e7720e61a7b5077592d07d61c313e559           1\n",
-       "98665  e7f65461e6bfbb6977c3d24ff623024e           1\n",
+       "98661  e7d39ee13283ab636ac39f8a97175320           1\n",
+       "98662  e7d99cde4408565cb8aa944a642c61bd           1\n",
+       "98663  e84a02d0899d1118f39b570825cce93c           1\n",
+       "98664  e8606bd877aee06d98501a6436ee8576           1\n",
+       "98665  e87543e4e7ef577c892735018fb134a8           1\n",
        "\n",
        "[98666 rows x 2 columns]"
       ]
      },
-     "execution_count": 80,
+     "execution_count": 74,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select order_id, count(distinct product_id) no_product\n",
-    "from df_order_item\n",
-    "group by order_id\n",
-    "order by no_product desc\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select order_id, count(distinct product_id) no_product\\\n",
+    "             from df_order_item\\\n",
+    "             group by order_id\\\n",
+    "             order by no_product desc\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 81,
+   "execution_count": 75,
    "metadata": {},
    "outputs": [
     {
@@ -3556,22 +3396,20 @@
        "9  2018-08-16 02:25:07   56.0           3.68  "
       ]
      },
-     "execution_count": 81,
+     "execution_count": 75,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_order_item\n",
-    "where order_id = 'ca3625898fbd48669d50701aba51cd5f'\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select *\\\n",
+    "             from df_order_item\\\n",
+    "             where order_id = 'ca3625898fbd48669d50701aba51cd5f'\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 82,
+   "execution_count": 76,
    "metadata": {},
    "outputs": [
     {
@@ -3612,21 +3450,18 @@
        "0                32951"
       ]
      },
-     "execution_count": 82,
+     "execution_count": 76,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(distinct product_id) no_product_in_order\n",
-    "from df_order_item\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(distinct product_id) no_product_in_order from df_order_item\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 83,
+   "execution_count": 77,
    "metadata": {},
    "outputs": [
     {
@@ -3687,27 +3522,27 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32946</th>\n",
-       "      <td>27e90baf9d996277a5299e5d828be218</td>\n",
+       "      <td>1b770da1c339c216e545d69ee2965da1</td>\n",
        "      <td>1.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32947</th>\n",
-       "      <td>a2abc65fbaa1761f0c6a88512db4719f</td>\n",
+       "      <td>5f537918a8fcb8d675c944266babf1d6</td>\n",
        "      <td>1.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32948</th>\n",
-       "      <td>beefd66ae7d857b9c50868bb14473a86</td>\n",
+       "      <td>190179a3742b4110aaa5373a873885bb</td>\n",
        "      <td>1.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32949</th>\n",
-       "      <td>071930404657f7cd416f75bd063a9d4b</td>\n",
+       "      <td>07883aa96515a898e1b9ddf0537a1b56</td>\n",
        "      <td>1.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32950</th>\n",
-       "      <td>fa8fb673c7f31e3c35f62de366af764b</td>\n",
+       "      <td>bba0d9c4f470ff541dba7f02d791a4f3</td>\n",
        "      <td>1.0</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
@@ -3723,32 +3558,30 @@
        "3      53759a2ecddad2bb87a079a1f1519f73    545.0\n",
        "4      99a4788cb24856965c36a24e339b6058    542.0\n",
        "...                                 ...      ...\n",
-       "32946  27e90baf9d996277a5299e5d828be218      1.0\n",
-       "32947  a2abc65fbaa1761f0c6a88512db4719f      1.0\n",
-       "32948  beefd66ae7d857b9c50868bb14473a86      1.0\n",
-       "32949  071930404657f7cd416f75bd063a9d4b      1.0\n",
-       "32950  fa8fb673c7f31e3c35f62de366af764b      1.0\n",
+       "32946  1b770da1c339c216e545d69ee2965da1      1.0\n",
+       "32947  5f537918a8fcb8d675c944266babf1d6      1.0\n",
+       "32948  190179a3742b4110aaa5373a873885bb      1.0\n",
+       "32949  07883aa96515a898e1b9ddf0537a1b56      1.0\n",
+       "32950  bba0d9c4f470ff541dba7f02d791a4f3      1.0\n",
        "\n",
        "[32951 rows x 2 columns]"
       ]
      },
-     "execution_count": 83,
+     "execution_count": 77,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select product_id, sum(order_item_id) no_item\n",
-    "from df_order_item\n",
-    "group by product_id\n",
-    "order by no_item desc\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select product_id, sum(order_item_id) no_item\\\n",
+    "             from df_order_item\\\n",
+    "             group by product_id\\\n",
+    "             order by no_item desc\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 84,
+   "execution_count": 78,
    "metadata": {},
    "outputs": [
     {
@@ -3837,14 +3670,14 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32948</th>\n",
-       "      <td>270516a3f41dc035aa87d220228f844c</td>\n",
+       "      <td>05b515fdc76e888aada3c6d66c201dff</td>\n",
        "      <td>1.20</td>\n",
        "      <td>1.20</td>\n",
        "      <td>1.20</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>32949</th>\n",
-       "      <td>05b515fdc76e888aada3c6d66c201dff</td>\n",
+       "      <td>270516a3f41dc035aa87d220228f844c</td>\n",
        "      <td>1.20</td>\n",
        "      <td>1.20</td>\n",
        "      <td>1.20</td>\n",
@@ -3871,26 +3704,23 @@
        "...                                 ...        ...        ...        ...\n",
        "32946  310dc32058903b6416c71faff132df9e       2.29       2.29       2.29\n",
        "32947  46fce52cef5caa7cc225a5531c946c8b       2.20       2.20       2.20\n",
-       "32948  270516a3f41dc035aa87d220228f844c       1.20       1.20       1.20\n",
-       "32949  05b515fdc76e888aada3c6d66c201dff       1.20       1.20       1.20\n",
+       "32948  05b515fdc76e888aada3c6d66c201dff       1.20       1.20       1.20\n",
+       "32949  270516a3f41dc035aa87d220228f844c       1.20       1.20       1.20\n",
        "32950  8a3254bee785a526d548a81a9bc3c9be       0.85       0.85       0.85\n",
        "\n",
        "[32951 rows x 4 columns]"
       ]
      },
-     "execution_count": 84,
+     "execution_count": 78,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select product_id\n",
-    ", min(price) min_price, max(price) max_price, avg(price) avg_price\n",
-    "from df_order_item\n",
-    "group by product_id\n",
-    "order by avg_price desc\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select product_id, min(price) min_price, max(price) max_price, avg(price) avg_price\\\n",
+    "             from df_order_item\\\n",
+    "             group by product_id\\\n",
+    "             order by avg_price desc\").to_df()"
    ]
   },
   {
@@ -3902,7 +3732,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 86,
+   "execution_count": 80,
    "metadata": {
     "scrolled": true
    },
@@ -4059,21 +3889,18 @@
        "[103886 rows x 5 columns]"
       ]
      },
-     "execution_count": 86,
+     "execution_count": 80,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_order_payment\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_order_payment\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 87,
+   "execution_count": 81,
    "metadata": {},
    "outputs": [
     {
@@ -4104,8 +3931,8 @@
        "  <tbody>\n",
        "    <tr>\n",
        "      <th>0</th>\n",
-       "      <td>boleto</td>\n",
-       "      <td>19784</td>\n",
+       "      <td>not_defined</td>\n",
+       "      <td>3</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
@@ -4114,18 +3941,18 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
+       "      <td>boleto</td>\n",
+       "      <td>19784</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
        "      <td>debit_card</td>\n",
        "      <td>1528</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>3</th>\n",
+       "      <th>4</th>\n",
        "      <td>credit_card</td>\n",
        "      <td>76505</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>not_defined</td>\n",
-       "      <td>3</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -4133,30 +3960,27 @@
       ],
       "text/plain": [
        "  payment_type  no_order\n",
-       "0       boleto     19784\n",
+       "0  not_defined         3\n",
        "1      voucher      3866\n",
-       "2   debit_card      1528\n",
-       "3  credit_card     76505\n",
-       "4  not_defined         3"
+       "2       boleto     19784\n",
+       "3   debit_card      1528\n",
+       "4  credit_card     76505"
       ]
      },
-     "execution_count": 87,
+     "execution_count": 81,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select payment_type\n",
-    ", count(distinct order_id) as no_order\n",
-    "from df_order_payment\n",
-    "group by payment_type\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select payment_type, count(distinct order_id) as no_order\\\n",
+    "             from df_order_payment\\\n",
+    "             group by payment_type\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 88,
+   "execution_count": 82,
    "metadata": {},
    "outputs": [
     {
@@ -4192,23 +4016,23 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
-       "      <td>credit_card</td>\n",
-       "      <td>77115.0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
        "      <td>boleto</td>\n",
        "      <td>19785.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>3</th>\n",
+       "      <th>2</th>\n",
        "      <td>debit_card</td>\n",
        "      <td>1582.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>4</th>\n",
+       "      <th>3</th>\n",
        "      <td>voucher</td>\n",
        "      <td>15029.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>credit_card</td>\n",
+       "      <td>77115.0</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -4217,28 +4041,26 @@
       "text/plain": [
        "  payment_type   no_seq\n",
        "0  not_defined      3.0\n",
-       "1  credit_card  77115.0\n",
-       "2       boleto  19785.0\n",
-       "3   debit_card   1582.0\n",
-       "4      voucher  15029.0"
+       "1       boleto  19785.0\n",
+       "2   debit_card   1582.0\n",
+       "3      voucher  15029.0\n",
+       "4  credit_card  77115.0"
       ]
      },
-     "execution_count": 88,
+     "execution_count": 82,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select payment_type, sum(payment_sequential) as no_seq\n",
-    "from df_order_payment\n",
-    "group by payment_type\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select payment_type, sum(payment_sequential) as no_seq\\\n",
+    "             from df_order_payment\\\n",
+    "             group by payment_type\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 89,
+   "execution_count": 83,
    "metadata": {},
    "outputs": [
     {
@@ -4274,23 +4096,23 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
+       "      <td>credit_card</td>\n",
+       "      <td>3.507155</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
        "      <td>boleto</td>\n",
        "      <td>1.000000</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>2</th>\n",
+       "      <th>3</th>\n",
        "      <td>debit_card</td>\n",
        "      <td>1.000000</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>3</th>\n",
+       "      <th>4</th>\n",
        "      <td>voucher</td>\n",
        "      <td>1.000000</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>credit_card</td>\n",
-       "      <td>3.507155</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -4299,28 +4121,26 @@
       "text/plain": [
        "  payment_type  avg_installments_month\n",
        "0  not_defined                1.000000\n",
-       "1       boleto                1.000000\n",
-       "2   debit_card                1.000000\n",
-       "3      voucher                1.000000\n",
-       "4  credit_card                3.507155"
+       "1  credit_card                3.507155\n",
+       "2       boleto                1.000000\n",
+       "3   debit_card                1.000000\n",
+       "4      voucher                1.000000"
       ]
      },
-     "execution_count": 89,
+     "execution_count": 83,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select payment_type, avg(payment_installments) as avg_installments_month\n",
-    "from df_order_payment\n",
-    "group by payment_type\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select payment_type, avg(payment_installments) as avg_installments_month\\\n",
+    "             from df_order_payment\\\n",
+    "             group by payment_type\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 90,
+   "execution_count": 84,
    "metadata": {
     "tags": []
    },
@@ -4347,59 +4167,57 @@
        "    <tr style=\"text-align: right;\">\n",
        "      <th></th>\n",
        "      <th>payment_type</th>\n",
-       "      <th>sum_payment_value_k</th>\n",
+       "      <th>sum_payment_value</th>\n",
        "    </tr>\n",
        "  </thead>\n",
        "  <tbody>\n",
        "    <tr>\n",
        "      <th>0</th>\n",
-       "      <td>not_defined</td>\n",
-       "      <td>0.00000</td>\n",
+       "      <td>credit_card</td>\n",
+       "      <td>1.254208e+07</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
        "      <td>boleto</td>\n",
-       "      <td>2869.36127</td>\n",
+       "      <td>2.869361e+06</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
        "      <td>debit_card</td>\n",
-       "      <td>217.98979</td>\n",
+       "      <td>2.179898e+05</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>3</th>\n",
        "      <td>voucher</td>\n",
-       "      <td>379.43687</td>\n",
+       "      <td>3.794369e+05</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
-       "      <td>credit_card</td>\n",
-       "      <td>12542.08419</td>\n",
+       "      <td>not_defined</td>\n",
+       "      <td>0.000000e+00</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
        "</div>"
       ],
       "text/plain": [
-       "  payment_type  sum_payment_value_k\n",
-       "0  not_defined              0.00000\n",
-       "1       boleto           2869.36127\n",
-       "2   debit_card            217.98979\n",
-       "3      voucher            379.43687\n",
-       "4  credit_card          12542.08419"
+       "  payment_type  sum_payment_value\n",
+       "0  credit_card       1.254208e+07\n",
+       "1       boleto       2.869361e+06\n",
+       "2   debit_card       2.179898e+05\n",
+       "3      voucher       3.794369e+05\n",
+       "4  not_defined       0.000000e+00"
       ]
      },
-     "execution_count": 90,
+     "execution_count": 84,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select payment_type, sum(payment_value/1000) as sum_payment_value_k\n",
-    "from df_order_payment\n",
-    "group by payment_type\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select payment_type, sum(payment_value) as sum_payment_value\\\n",
+    "             from df_order_payment\\\n",
+    "             group by payment_type\").to_df()"
    ]
   },
   {
@@ -4411,7 +4229,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 92,
+   "execution_count": 86,
    "metadata": {},
    "outputs": [
     {
@@ -4616,21 +4434,18 @@
        "[99224 rows x 7 columns]"
       ]
      },
-     "execution_count": 92,
+     "execution_count": 86,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_order_review\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_order_review\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 93,
+   "execution_count": 87,
    "metadata": {
     "tags": []
    },
@@ -4662,11 +4477,11 @@
        "  <tbody>\n",
        "    <tr>\n",
        "      <th>0</th>\n",
-       "      <td>2</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
-       "      <td>1</td>\n",
+       "      <td>2</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
@@ -4686,28 +4501,25 @@
       ],
       "text/plain": [
        "   review_score\n",
-       "0             2\n",
-       "1             1\n",
+       "0             1\n",
+       "1             2\n",
        "2             4\n",
        "3             5\n",
        "4             3"
       ]
      },
-     "execution_count": 93,
+     "execution_count": 87,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select distinct review_score\n",
-    "from df_order_review\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select distinct review_score from df_order_review\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 94,
+   "execution_count": 88,
    "metadata": {
     "tags": []
    },
@@ -4750,16 +4562,13 @@
        "0   4.086421"
       ]
      },
-     "execution_count": 94,
+     "execution_count": 88,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select avg(review_score) avg_score\n",
-    "from df_order_review\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select avg(review_score) avg_score from df_order_review\").to_df()"
    ]
   },
   {
@@ -4771,7 +4580,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 96,
+   "execution_count": 90,
    "metadata": {
     "tags": []
    },
@@ -4990,21 +4799,18 @@
        "[99441 rows x 8 columns]"
       ]
      },
-     "execution_count": 96,
+     "execution_count": 90,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_order\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_order\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 97,
+   "execution_count": 91,
    "metadata": {
     "tags": []
    },
@@ -5037,43 +4843,43 @@
        "  <tbody>\n",
        "    <tr>\n",
        "      <th>0</th>\n",
-       "      <td>canceled</td>\n",
-       "      <td>625</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1</th>\n",
-       "      <td>processing</td>\n",
-       "      <td>301</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
-       "      <td>delivered</td>\n",
-       "      <td>96478</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3</th>\n",
-       "      <td>created</td>\n",
-       "      <td>5</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
        "      <td>invoiced</td>\n",
        "      <td>314</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>5</th>\n",
+       "      <th>1</th>\n",
        "      <td>shipped</td>\n",
        "      <td>1107</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>6</th>\n",
+       "      <th>2</th>\n",
        "      <td>approved</td>\n",
        "      <td>2</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>7</th>\n",
+       "      <th>3</th>\n",
+       "      <td>processing</td>\n",
+       "      <td>301</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
        "      <td>unavailable</td>\n",
        "      <td>609</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>5</th>\n",
+       "      <td>delivered</td>\n",
+       "      <td>96478</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>6</th>\n",
+       "      <td>created</td>\n",
+       "      <td>5</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>7</th>\n",
+       "      <td>canceled</td>\n",
+       "      <td>625</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -5081,27 +4887,25 @@
       ],
       "text/plain": [
        "  order_status  no_order\n",
-       "0     canceled       625\n",
-       "1   processing       301\n",
-       "2    delivered     96478\n",
-       "3      created         5\n",
-       "4     invoiced       314\n",
-       "5      shipped      1107\n",
-       "6     approved         2\n",
-       "7  unavailable       609"
+       "0     invoiced       314\n",
+       "1      shipped      1107\n",
+       "2     approved         2\n",
+       "3   processing       301\n",
+       "4  unavailable       609\n",
+       "5    delivered     96478\n",
+       "6      created         5\n",
+       "7     canceled       625"
       ]
      },
-     "execution_count": 97,
+     "execution_count": 91,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select order_status, count(distinct order_id) no_order\n",
-    "from df_order\n",
-    "group by order_status\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select order_status, count(distinct order_id) no_order\\\n",
+    "              from df_order\\\n",
+    "              group by order_status\").to_df()"
    ]
   },
   {
@@ -5113,7 +4917,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 99,
+   "execution_count": 93,
    "metadata": {
     "tags": []
    },
@@ -5344,21 +5148,18 @@
        "[32951 rows x 9 columns]"
       ]
      },
-     "execution_count": 99,
+     "execution_count": 93,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_product\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_product\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 100,
+   "execution_count": 94,
    "metadata": {
     "tags": []
    },
@@ -5403,16 +5204,13 @@
        "0              32951                       32951"
       ]
      },
-     "execution_count": 100,
+     "execution_count": 94,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select count(product_id), count(distinct product_id)\n",
-    "from df_product\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select count(product_id), count(distinct product_id) from df_product\").to_df()"
    ]
   },
   {
@@ -5424,7 +5222,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 102,
+   "execution_count": 96,
    "metadata": {
     "tags": []
    },
@@ -5569,21 +5367,18 @@
        "[3095 rows x 4 columns]"
       ]
      },
-     "execution_count": 102,
+     "execution_count": 96,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_seller\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_seller\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 103,
+   "execution_count": 97,
    "metadata": {
     "tags": []
    },
@@ -5628,7 +5423,7 @@
        "0              3095                       3095"
       ]
      },
-     "execution_count": 103,
+     "execution_count": 97,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5646,7 +5441,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 105,
+   "execution_count": 99,
    "metadata": {
     "tags": []
    },
@@ -5754,21 +5549,18 @@
        "[71 rows x 2 columns]"
       ]
      },
-     "execution_count": 105,
+     "execution_count": 99,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_cat_name\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select * from df_cat_name\").to_df()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 106,
+   "execution_count": 100,
    "metadata": {
     "tags": []
    },
@@ -5800,23 +5592,23 @@
        "  <tbody>\n",
        "    <tr>\n",
        "      <th>0</th>\n",
-       "      <td>housewares</td>\n",
+       "      <td>fixed_telephony</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
-       "      <td>baby</td>\n",
+       "      <td>cool_stuff</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
-       "      <td>fashion_bags_accessories</td>\n",
+       "      <td>air_conditioning</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>3</th>\n",
-       "      <td>kitchen_dining_laundry_garden_furniture</td>\n",
+       "      <td>furniture_living_room</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
-       "      <td>costruction_tools_garden</td>\n",
+       "      <td>fashion_sport</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>...</th>\n",
@@ -5824,23 +5616,23 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>66</th>\n",
-       "      <td>construction_tools_construction</td>\n",
+       "      <td>furniture_mattress_and_upholstery</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>67</th>\n",
-       "      <td>market_place</td>\n",
+       "      <td>home_appliances_2</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>68</th>\n",
-       "      <td>food</td>\n",
+       "      <td>drinks</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>69</th>\n",
-       "      <td>computers</td>\n",
+       "      <td>la_cuisine</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>70</th>\n",
-       "      <td>home_comfort_2</td>\n",
+       "      <td>security_and_services</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -5848,224 +5640,29 @@
        "</div>"
       ],
       "text/plain": [
-       "              product_category_name_english\n",
-       "0                                housewares\n",
-       "1                                      baby\n",
-       "2                  fashion_bags_accessories\n",
-       "3   kitchen_dining_laundry_garden_furniture\n",
-       "4                  costruction_tools_garden\n",
-       "..                                      ...\n",
-       "66          construction_tools_construction\n",
-       "67                             market_place\n",
-       "68                                     food\n",
-       "69                                computers\n",
-       "70                           home_comfort_2\n",
+       "        product_category_name_english\n",
+       "0                     fixed_telephony\n",
+       "1                          cool_stuff\n",
+       "2                    air_conditioning\n",
+       "3               furniture_living_room\n",
+       "4                       fashion_sport\n",
+       "..                                ...\n",
+       "66  furniture_mattress_and_upholstery\n",
+       "67                  home_appliances_2\n",
+       "68                             drinks\n",
+       "69                         la_cuisine\n",
+       "70              security_and_services\n",
        "\n",
        "[71 rows x 1 columns]"
       ]
      },
-     "execution_count": 106,
+     "execution_count": 100,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "duckdb.query(\"\"\"\n",
-    "select distinct product_category_name_english\n",
-    "from df_cat_name\n",
-    "\"\"\").to_df()"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "tags": []
-   },
-   "source": [
-    "olist_age"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 108,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>customer_id</th>\n",
-       "      <th>age</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>0</th>\n",
-       "      <td>00012a2ce6f8dcda20d059ce98491703</td>\n",
-       "      <td>61</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1</th>\n",
-       "      <td>000161a058600d5901f007fab4c27140</td>\n",
-       "      <td>49</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
-       "      <td>0001fd6190edaaf884bcaf3d49edf079</td>\n",
-       "      <td>71</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3</th>\n",
-       "      <td>0002414f95344307404f0ace7a26f1d5</td>\n",
-       "      <td>68</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>000379cdec625522490c315e70c7a9fb</td>\n",
-       "      <td>61</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>...</th>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>98661</th>\n",
-       "      <td>fffcb937e9dd47a13f05ecb8290f4d3e</td>\n",
-       "      <td>33</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>98662</th>\n",
-       "      <td>fffecc9f79fd8c764f843e9951b11341</td>\n",
-       "      <td>49</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>98663</th>\n",
-       "      <td>fffeda5b6d849fbd39689bb92087f431</td>\n",
-       "      <td>27</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>98664</th>\n",
-       "      <td>ffff42319e9b2d713724ae527742af25</td>\n",
-       "      <td>67</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>98665</th>\n",
-       "      <td>ffffa3172527f765de70084a7e53aae8</td>\n",
-       "      <td>53</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "<p>98666 rows × 2 columns</p>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "                            customer_id  age\n",
-       "0      00012a2ce6f8dcda20d059ce98491703   61\n",
-       "1      000161a058600d5901f007fab4c27140   49\n",
-       "2      0001fd6190edaaf884bcaf3d49edf079   71\n",
-       "3      0002414f95344307404f0ace7a26f1d5   68\n",
-       "4      000379cdec625522490c315e70c7a9fb   61\n",
-       "...                                 ...  ...\n",
-       "98661  fffcb937e9dd47a13f05ecb8290f4d3e   33\n",
-       "98662  fffecc9f79fd8c764f843e9951b11341   49\n",
-       "98663  fffeda5b6d849fbd39689bb92087f431   27\n",
-       "98664  ffff42319e9b2d713724ae527742af25   67\n",
-       "98665  ffffa3172527f765de70084a7e53aae8   53\n",
-       "\n",
-       "[98666 rows x 2 columns]"
-      ]
-     },
-     "execution_count": 108,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "duckdb.query(\"\"\"\n",
-    "select *\n",
-    "from df_age\n",
-    "\"\"\").to_df()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 109,
-   "metadata": {
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>min_age</th>\n",
-       "      <th>max_age</th>\n",
-       "      <th>avg_age</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>0</th>\n",
-       "      <td>18</td>\n",
-       "      <td>75</td>\n",
-       "      <td>46.591835</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "   min_age  max_age    avg_age\n",
-       "0       18       75  46.591835"
-      ]
-     },
-     "execution_count": 109,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "duckdb.query(\"\"\"\n",
-    "select min(age) min_age, max(age) max_age, avg(age) avg_age\n",
-    "from df_age\n",
-    "\"\"\").to_df()"
+    "duckdb.query(\"select distinct product_category_name_english from df_cat_name\").to_df()"
    ]
   }
  ],
